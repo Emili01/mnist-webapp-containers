@@ -10,6 +10,6 @@ An MLP model trained on the MNIST database with a web interface to recognize han
 ## Quick Start
 ```bash
 # Clone and deploy
-git clone https://github.com/yourusername/mnist-mlp-api-docker.git
-cd mnist-mlp-api-docker
+git clone https://github.com/Emili01/mnist-webapp-containers.git
+cd mnist-webapp-containers
 docker-compose up --build
